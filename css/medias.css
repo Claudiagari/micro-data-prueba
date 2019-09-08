@@ -1,0 +1,88 @@
+/*************************************************************/
+@media (max-width: 1400px){
+
+}
+/*************************************************************/
+@media (max-width: 1200px){
+	
+}
+/*************************************************************/
+@media (max-width: 1100px){
+	
+}
+/*************************************************************/
+@media (max-width: 992px){
+	
+}
+/*************************************************************/
+@media (max-width: 900px){
+
+}
+/*************************************************************/
+@media (max-width: 850px){
+	
+}
+	
+/*************************************************************/
+@media (max-width: 768px){
+
+}
+
+/*************************************************************/
+@media (max-width: 600px){
+	#home{
+	 background:url(../assets/images/fondo-1.png) center center no-repeat;
+	 background-size: cover;
+	 background-position-y: 60px;
+	 padding: 0 25px;
+	}
+	#home h1, #home span{
+	font-size: 36px;
+	color: rgb(82, 124, 43);
+	}
+	#home p{
+		font-size: 16px;
+	}
+	#home h2 {
+		font-size: 20px;
+	}
+	#tema2{
+		padding: 100px 53px;
+	}
+	.card {
+		padding: 30px 10px;
+	}
+	#tema div.text-center.title{
+		padding: 0px 20px;
+	}
+	.bg-tema3{
+		padding: 0px 20px;
+	}
+	div.row .border-tema3:first-child{
+		border: none
+	}
+	.border-card1, .border-card2, .border-card3{
+		border-radius: 18px;
+		padding: 50px;
+	}
+	div.row .border-tema3:last-child {
+		padding-bottom: 30px;
+	}
+}
+
+/*************************************************************/
+@media (max-width: 480px){
+	
+}
+/*************************************************************/
+@media (max-width: 380px){
+	
+}	
+/*************************************************************/
+@media (max-width: 320px){
+}
+/*************************************************************/
+@media (max-width: 280px){
+}{
+
+}
