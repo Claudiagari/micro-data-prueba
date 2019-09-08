@@ -180,13 +180,13 @@ footer{
   font-family: 'Open Sans', sans-serif;
   background-color: #464646;
   padding: 20px 0px;
-  color:#fff;
+  color:#ffffff;
 }
-footer a {
-  color:#fff;
+footer .list-group-item a {
+  color:#ffffff!important;
 }
-footer a:hover {
-  color:#fff;
+footer  .list-group-item a:hover {
+  color:#ffffff!important;
   text-decoration: none;
 }
 
